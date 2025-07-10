@@ -1,0 +1,4 @@
+mfd-base-tool>=2.7.0
+mfd-common-libs>=1.11.0
+mfd-typing>=1.23.0
+mfd-kernel-namespace>=1.8.0
